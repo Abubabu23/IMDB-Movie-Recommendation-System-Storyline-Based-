@@ -18,16 +18,16 @@ Movie data is scraped directly from IMDb using Selenium, cleaned, processed, and
 ## 📁 Project Structure
 
 ├── app.py    
-├── imdb_scraper.py
-├── nlp_processing.py
-├── recommendation.py
-├── imdb_2024_movies.csv
-├── movie_data.csv
-├── tfidf.pkl
-├── tfidf_matrix.pkl
-├── requirement.txt
-├── IMDB_Movie_Recommendation_Project_Report.pdf
-└── README.md
+├── imdb_scraper.py    
+├── nlp_processing.py    
+├── recommendation.py    
+├── imdb_2024_movies.csv    
+├── movie_data.csv    
+├── tfidf.pkl    
+├── tfidf_matrix.pkl    
+├── requirement.txt    
+├── IMDB_Movie_Recommendation_Project_Report.pdf    
+└── README.md    
 ---
 
 ## ▶️ Run the App
